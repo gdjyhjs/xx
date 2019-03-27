@@ -1,0 +1,4 @@
+#Mon Mar 18 16:40:46 CST 2019
+base.0=F\:\\test\\HotUpdateGame\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

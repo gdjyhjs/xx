@@ -1,0 +1,9 @@
+com.gdjyhjs.xiuxian
+drawable app_banner
+drawable unity_static_splash
+mipmap app_icon
+mipmap app_icon_round
+string app_name
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent
